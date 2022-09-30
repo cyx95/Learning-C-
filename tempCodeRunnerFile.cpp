@@ -1,5 +1,3 @@
-int age;  
-    // cout << "Enter your age: ";
-    // cin >> age;
-
-    // cout << "You are " << age << " years old" << endl;
+void sayHi (string name, int age) {
+//     cout << "Hello " << name << " you are " << age << endl;
+// }
